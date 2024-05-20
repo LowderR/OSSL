@@ -1,4 +1,4 @@
-This repo is source code for cikm2024 paper "Learning to Discover Anomalous Trajectory with Open-World State Space Model"
+# This repo is source code for cikm2024 paper "Learning to Discover Anomalous Trajectory with Open-World State Space Model"
 ## Original Datasets
 	We conduct all experiments on two taxi trajectories datasets: Porto and Chengdu.
 ## Document description
